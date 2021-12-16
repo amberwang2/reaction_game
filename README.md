@@ -1,10 +1,10 @@
 # reaction_game
-A simple reaction game made with pygame.
+A simple reaction/aim game made with pygame.
 ## How to run
 - Download and extract the .zip from the latest release at https://github.com/massiveg00se/reaction_game/releases
-- Run the .exe file
+- Run main.exe
 ## Running from source
-- Make sure you have python installed.
-- Run main.py in the main folder.
+- Make sure you have python installed
+- Run main.py
 ### Dependencies
 - pygame: `pip install pygame`
